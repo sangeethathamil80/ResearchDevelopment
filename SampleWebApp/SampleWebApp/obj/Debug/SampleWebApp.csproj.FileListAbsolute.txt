@@ -116,7 +116,6 @@ E:\BUSOFTTECH\R&D\ResearchDevelopment\SampleWebApp\SampleWebApp\bin\System.Net.H
 E:\BUSOFTTECH\R&D\ResearchDevelopment\SampleWebApp\SampleWebApp\bin\System.Web.Http.xml
 E:\BUSOFTTECH\R&D\ResearchDevelopment\SampleWebApp\SampleWebApp\bin\System.Web.Http.WebHost.xml
 E:\BUSOFTTECH\R&D\ResearchDevelopment\SampleWebApp\SampleWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-E:\BUSOFTTECH\R&D\ResearchDevelopment\SampleWebApp\SampleWebApp\obj\Debug\SampleWebApp.csprojAssemblyReference.cache
 E:\BUSOFTTECH\R&D\ResearchDevelopment\SampleWebApp\SampleWebApp\obj\Debug\SampleWebApp.csproj.CoreCompileInputs.cache
 E:\BUSOFTTECH\R&D\ResearchDevelopment\SampleWebApp\SampleWebApp\obj\Debug\SampleWebApp.csproj.CopyComplete
 E:\BUSOFTTECH\R&D\ResearchDevelopment\SampleWebApp\SampleWebApp\obj\Debug\SampleWebApp.dll
